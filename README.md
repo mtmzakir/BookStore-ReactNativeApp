@@ -2,9 +2,14 @@
 
 Create a Project in Expo 
 
+    expo init BookStore
+   
+    cd BookStore
+
 
 install these dependencies inside the folder
 in cmd>>>
+
     npm install @react-navigation/native
     
     npm install @react-navigation/stack
@@ -24,8 +29,9 @@ in cmd>>>
     npm install react-native-vector-icons --save
     
     
-Replace these files inside your Folder
+Replace all files files inside your Folder
 
 
 then run app with this command
-expo start --clear
+
+    expo start --clear
