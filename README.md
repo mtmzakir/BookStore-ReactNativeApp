@@ -13,20 +13,21 @@
 
 *Screenshot of UI*
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90142607/180664987-8a7fd7a0-eeba-4dec-990c-c43f6a8b43a8.jpg" width="180" height="390" padding="5"/>
-<img src="https://user-images.githubusercontent.com/90142607/180665000-21a40705-dde0-4077-a6c2-5bfc9447a7ff.jpg" width="180" height="390" padding="5"/>
-<img src="https://user-images.githubusercontent.com/90142607/180664990-c479e82c-f032-4e0e-8bf8-bbce73b4d0a8.jpg" width="180" height="390" padding="5"/>
-<img src="https://user-images.githubusercontent.com/90142607/180664996-8970aff4-7d2c-4437-b7d5-7d954611ebbb.jpg" width="180" height="390" padding="5"/>
+<img src="https://user-images.githubusercontent.com/90142607/180664987-8a7fd7a0-eeba-4dec-990c-c43f6a8b43a8.jpg" width="180" height="390" marginleft="5"/>
+<img src="https://user-images.githubusercontent.com/90142607/180665000-21a40705-dde0-4077-a6c2-5bfc9447a7ff.jpg" width="180" height="390" marginleft="5"/>
+<img src="https://user-images.githubusercontent.com/90142607/180664990-c479e82c-f032-4e0e-8bf8-bbce73b4d0a8.jpg" width="180" height="390" marginleft="5"/>
+<img src="https://user-images.githubusercontent.com/90142607/180664996-8970aff4-7d2c-4437-b7d5-7d954611ebbb.jpg" width="180" height="390" marginleft="5"/>
 </div>
 
-### Create a Project in Expo 
+### 1. Create a Project in Expo 
 
     expo init BookStore
     cd BookStore
 
 
-### install these dependencies inside the folder
+### 2. Install these dependencies inside the folder
 in cmd>>>
+
     npm install @react-navigation/native
     npm install @react-navigation/stack
     expo install react-native-gesture-handler
@@ -38,10 +39,10 @@ in cmd>>>
     npm install react-native-vector-icons --save
     
     
-### then Replace all files files inside your Folder
+### 3. Replace all files files inside your Folder
 
 
-### then run app with this command
+### 4. Run app with this command
     expo start --clear
 
 <h1 align="center">Credits to M.T.M. Zakir</h1>
