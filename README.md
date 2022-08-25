@@ -15,12 +15,12 @@
 ---
 
 *Screenshot of UI*
-
-<img src="https://user-images.githubusercontent.com/90142607/180664987-8a7fd7a0-eeba-4dec-990c-c43f6a8b43a8.jpg" width="180" height="390" />
-<img src="https://user-images.githubusercontent.com/90142607/180665000-21a40705-dde0-4077-a6c2-5bfc9447a7ff.jpg" width="180" height="390" />
+<div align="space">
+<img src="https://user-images.githubusercontent.com/90142607/180664987-8a7fd7a0-eeba-4dec-990c-c43f6a8b43a8.jpg" width="180" height="390"  style="vertical-align:middle;margin:0px 50px"/>
+<img src="https://user-images.githubusercontent.com/90142607/180665000-21a40705-dde0-4077-a6c2-5bfc9447a7ff.jpg" width="180" height="390"  style="vertical-align:middle;margin:0px 50px"/>
 <img src="https://user-images.githubusercontent.com/90142607/180664990-c479e82c-f032-4e0e-8bf8-bbce73b4d0a8.jpg" width="180" height="390" />
 <img src="https://user-images.githubusercontent.com/90142607/180664996-8970aff4-7d2c-4437-b7d5-7d954611ebbb.jpg" width="180" height="390" />
-
+</div>
 
 ---
 
